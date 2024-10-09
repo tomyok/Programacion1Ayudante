@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728511602 source:c:\users\tomy-\desktop\ejbrian\ejerciciobrian\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
